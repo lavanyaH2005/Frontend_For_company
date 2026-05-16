@@ -6,7 +6,7 @@ function Navbar({ isLoggedIn, onLogout, onLoginClick }) {
   return (
     <nav className="sp-navbar" role="navigation" aria-label="Main navigation">
       {/* Brand */}
-      <a className="sp-brand" href="top" aria-label="Sowmiya Properties home">
+      <a className="sp-brand" href="/" aria-label="Sowmiya Properties home">
         <div className="brand-icon" aria-hidden="true">
           <HouseIcon size={22} color="white" />
         </div>
