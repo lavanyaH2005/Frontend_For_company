@@ -245,7 +245,7 @@ function HomePage({ user, onLogout, onLoginClick }) {
       <WhyUsSection />
       <ContactSection />
       <footer className="sp-footer">
-        &copy; 2025 <span>Sowmiya Properties</span>. All rights reserved. | Chennai, Tamil Nadu
+        &copy; 2026 <span>Sowmiya Properties</span>. All rights reserved. | Chennai, Tamil Nadu
       </footer>
     </>
   );
