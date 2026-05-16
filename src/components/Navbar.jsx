@@ -16,7 +16,7 @@ function Navbar({ isLoggedIn, onLogout, onLoginClick }) {
       {/* Right side */}
       <div className="nav-right">
         {/* Contact always visible */}
-        <a href="contact" className="nav-contact">
+        <a href="#contact" className="nav-contact">
           Contact
         </a>
  {isLoggedIn ? (
